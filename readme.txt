@@ -3,4 +3,7 @@ prva linija radi testa
 cevtvrta linija 
 peta linija 
 
+dodamo jos malo 
+a i josam alo
+
 
